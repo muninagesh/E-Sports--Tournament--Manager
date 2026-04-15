@@ -1,5 +1,5 @@
 
-# E-Sports Tournament Manager (Final Year Project)
+# E-Sports Tournament Manager 
 
 ## Features
 - Tournament management
