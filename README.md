@@ -1,2 +1,20 @@
-# E-Sports--Tournament--Manager
-The E-Sports Tournament Manager is a full-stack web application designed to organize, manage, and stream e-sports tournaments. It provides real-time score updates, tournament management, and an admin dashboard.
+
+# E-Sports Tournament Manager (Final Year Project)
+
+## Features
+- Tournament management
+- Live scoring (Socket.io)
+- Admin dashboard
+- Match APIs
+- MongoDB integration
+
+## Run
+Backend:
+cd server
+npm install
+node index.js
+
+Frontend:
+cd client
+npm install
+npm run dev
